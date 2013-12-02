@@ -1,7 +1,14 @@
 color phd
 filetype off
-call pathogen#runtime_append_all_bundles()
+execute pathogen#infect()
+syntax on
 filetype plugin indent on
+colorscheme solarized
+if has('gui_running')
+    set background=light
+else
+    set background=dark
+endif
 
 set nocompatible
 set tabstop=4
