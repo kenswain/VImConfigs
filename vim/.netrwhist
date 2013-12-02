@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/ken/.vim'
+let g:netrw_dirhist_2='/root/Dropbox/Documents/Sync/Notes'
+let g:netrw_dirhist_3='/Users/ken'
+let g:netrw_dirhist_4='/Users/ken/Dropbox'
+let g:netrw_dirhist_5='/Users/ken/Dropbox/Apps'
