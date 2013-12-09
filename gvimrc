@@ -32,6 +32,8 @@ set backspace=indent,eol,start
 set laststatus=2
 set relativenumber
 set undofile
+set backupdir=/tmp/
+set directory=/tmp/
 let mapleader = ","
 set ignorecase
 set smartcase
